@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-func",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "max lines per function for react",
   "keywords": [
     "eslint",
