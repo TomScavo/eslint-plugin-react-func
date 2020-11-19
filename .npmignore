@@ -29,3 +29,5 @@ node_modules
 .npmignore
 
 .gitignore
+
+package-lock.json

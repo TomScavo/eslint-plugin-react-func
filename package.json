@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-func",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "description": "max lines per function for react",
   "keywords": [
     "eslint",
@@ -21,6 +21,10 @@
   },
   "engines": {
     "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomScavo/eslint-plugin-react-func"
   },
   "license": "ISC"
 }
