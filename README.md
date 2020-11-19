@@ -50,8 +50,8 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 &nbsp;
-# max-lines-per-function
-   ## Options
+# max-lines-per-function (exclude react functional components)
+## Options
    - "max" (default 50) enforces a maximum number of lines in a function.
    - "skipBlankLines" (default false) ignore lines made up purely of whitespace.
    - "skipComments" (default false) ignore lines containing just comments.
@@ -93,7 +93,7 @@ Then configure the rules you want to use under the rules section.
 ```
 
 # max-combined-conditions
- ## Options
+## Options
 This rule has a numeric option (defaulted to 1) 
 
 
