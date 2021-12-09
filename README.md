@@ -51,7 +51,7 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 &nbsp;
 # max-lines-per-function
-#### This rule will exclude react functional components
+#### This rule will ignore any functions that contains JSX elements, custom hooks are also ignored.
 ## Options
    - "max" (default 50) enforces a maximum number of lines in a function.
    - "skipBlankLines" (default false) ignore lines made up purely of whitespace.
