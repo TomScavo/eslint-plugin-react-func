@@ -34,3 +34,4 @@ Give a short description of when it would be appropriate to turn off this rule.
 ## Further Reading
 
 If there are other links that describe the issue this rule addresses, please include them here in a bulleted list.
+

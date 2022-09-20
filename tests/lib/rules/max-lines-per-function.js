@@ -35,3 +35,4 @@ ruleTester.run("max-lines-per-function", rule, {
         }
     ]
 });
+
